@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "about me?"
+title: "Main Page"
 author_profile: true
 redirect_from: 
   - /md/
