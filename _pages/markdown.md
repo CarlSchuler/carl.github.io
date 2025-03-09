@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "about me?"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Front page##
+
 # next line?
 
 * Basic config options: _config.yml
