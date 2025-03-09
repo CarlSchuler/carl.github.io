@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Front page
+## Front page##
 # next line?
 
 * Basic config options: _config.yml
