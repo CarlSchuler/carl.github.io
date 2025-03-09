@@ -6,15 +6,10 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
+* Homeowner and Resident of Vineyard Square for 20 years:
+  * Served on Vineyard Square HOA for 7 years from 2005-2012
+  * Served 2 terms on the Chapel Hill Board of Adjustment
+  * 
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
