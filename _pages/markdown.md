@@ -7,7 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Front page
+# next line?
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
