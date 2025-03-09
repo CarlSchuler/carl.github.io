@@ -6,10 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-
-# next line?
-
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
