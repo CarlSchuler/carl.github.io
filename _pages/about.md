@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-* Vineyard Square homeowner and resident of the community for 20 years:  
+Vineyard Square homeowner and resident of the community for 20 years:
 
-  Served on Vineyard Square HOA for 7 years from 2005-2012
+ Served on Vineyard Square HOA for 7 years from 2005-2012
 
 Appointed by the Town of Chapel Hill Town Council to the Board of Adjustment and served two terms.
 
