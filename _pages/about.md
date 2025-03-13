@@ -9,7 +9,7 @@ redirect_from:
 
 Vineyard Square homeowner and resident of the community for 20 years:
 *Served on Vineyard Square HOA for 7 years from 2005-2012
-*Nominated by Town of Chapel Hill Town Council and served two terms on the Chapel Hill Board of Adjustment
+*Appointed by the Town of Chapel Hill Town Council to the Board of Adjustment and served two terms. and served two terms.
 
 
 Why I made self-nomination during the February 5th,annual HOA meeting?
