@@ -22,7 +22,7 @@ During the annual meeting, the floor opened to HOA Board nominations and no one 
 
 Sensing this portion of the meeting would soon close, I nominated myself for consideration.   After a brief introduction,members in attendance voted on my self-nomination.  
 
-Homeowners voted unanimousely for my appointment to the Board. As a result of the annual meeting, at least three homweowners would serve on Board. 
+Homeowners voted unanimousely for my appointment.  As a result of the annual meeting,it was known that at least three homweowners would serve on Board. 
 
 My positions:
 ======
